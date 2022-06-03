@@ -1,5 +1,5 @@
 Отчет 8 Лаба:
-Export GITHUB_USERNAME=DmitryZB
+Export GITHUB_USERNAME=TelitsynIvan
 $Создаем переменную с логином git
 git submodule update --init
 $Инициализируем использованные сабмодули
